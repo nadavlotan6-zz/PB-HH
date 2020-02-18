@@ -52,7 +52,7 @@ MarkupSafe==1.1.0
 matplotlib==3.0.3
 mistune==0.8.4
 mysql==0.0.2
-mysql-connector==2.1.6
+# mysql-connector==2.1.6 
 mysqlclient==1.4.2.post1
 nbconvert==5.4.1
 nbformat==4.4.0
